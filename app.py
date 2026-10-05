@@ -1,3 +1,6 @@
 name="chitti"
-sur_name='chennupati'
+sur_name='rathnam'
+name2="sai kiran"
+sur_name="mandapati"
+
 
